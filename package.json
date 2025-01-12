@@ -1,8 +1,8 @@
 {
   "name": "vscode-rojo",
-  "displayName": "Rojo - Roblox Studio Sync",
+  "displayName": "Rojo - Roblox Studio Sync forked to support Pesde",
   "description": "Rojo for VS Code",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "repository": "https://github.com/rojo-rbx/vscode-rojo",
   "publisher": "evaera",
   "engines": {
